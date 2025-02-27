@@ -2,7 +2,7 @@
 *Saya Putra Hadiyanto Nugroho dengan NIM 2308163 mengerjakan soal Tugas Praktikum 2 dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.*
 
 # Diagram
-<img src = "diagram.svg" style = "text-align: center;">
+<img src = "diagram.png" style = "text-align: center;">
 
 # Desain Program
 Di dalam program terdapat 3 kelas, **Petshop, Aksesoris, dan Baju.** Petshop berupa class untuk item yang ada di Petshop, Aksesoris berupa class untuk Aksesoris yang ada di Petshop, dan Baju berupa class untuk Baju Hewan di Petshop. Oleh karena itu, terbentuk relasi Aksesoris child dari Petshop (Aksesoris subset dari Item Petshop) dan Baju merupakan child dari Aksesoris (Baju subset dari Akseris yang ada di Petshop).
