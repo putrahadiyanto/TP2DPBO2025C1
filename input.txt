@@ -1,0 +1,13 @@
+1
+2
+Baju_Kelinci
+105000
+50
+Kemeja
+Wol
+Putih
+Kelinci
+XL
+Guess
+1
+3
